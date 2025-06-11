@@ -187,7 +187,7 @@ In this exercise you will:
 #### Reflection Question
 
 * **Why is a run-to-completion (batch) approach often preferable to interactive input?**
-
+Aufgrund eines Fehlers im Program sind die 90 kinuten hier vorbei gewesen
 ---
 
 ### Task 4: Input Redirection from STDIN
